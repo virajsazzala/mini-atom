@@ -1,0 +1,16 @@
+# node modules
+node_modules/
+
+# env files
+.env
+
+# sqlite db
+guild_settings.db
+
+# logs
+logs/
+*.log
+
+# os specific
+.DS_Store
+Thumbs.db
